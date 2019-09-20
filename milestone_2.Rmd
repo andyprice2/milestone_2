@@ -1,0 +1,14 @@
+---
+title: 'Milestone #2'
+author: "Andy Price"
+date: "9/20/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1.Diego Martinez's project, "Aging Curves Affect On Major League Baseball," works well because it uses visualizations to illustrate a concept that the reader implicitly understands on a general level but has trouble quantifying specifically. For example, it helped me understand that the phrase "aging curve" is used literally in baseball, even though I would have assumed aging decline is more linear. Seeing the shape of those declines (as opposed to a datatable that simply expressed player production by year) allowed me to intuitively grasp the shape of decline. The cons of a project like this, however, is that Diego had to rely on data from public databases that didn't include all the variables that one would want for this project. For example, it's noted that "the dataset did not split players into their specific outfield positons"; the limitations provided by the underlying dataset limit the scope of the project.
+
+2.
